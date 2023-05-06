@@ -7,7 +7,7 @@
         "start": "npx nodemon server.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Cydney Auman",
+    "author": "Jarly Arciniega",
     "license": "MIT",
     "dependencies": {
         "cors": "^2.8.5",
